@@ -10,7 +10,7 @@ A simple license that doesn't put any responsibility on you.
 <br/>
 <br/>
   
-<a href="https://github.com/xNOTHlNGx/SMTP-client/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+<a href="https://github.com/xNOTHlNGx/DFC-license/issues/new?labels=bug&template=improvement---.md">Request Improvement</a>
 
 </p>
 </div>
